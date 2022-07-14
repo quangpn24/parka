@@ -1,0 +1,12 @@
+[submodule "parka-app"]
+	path = parka-app
+	url = https://github.com/trunghq234/parka-app
+[submodule "parka-server"]
+	path = parka-server
+	url = https://github.com/quangpn24/parka-server
+[submodule "parka-merchant"]
+	path = parka-merchant
+	url = https://github.com/trunghq234/parka-merchant
+[submodule "parka-merchant-app"]
+	path = parka-merchant-app
+	url = https://github.com/quangpn24/parka-merchant-app
