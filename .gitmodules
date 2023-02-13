@@ -5,7 +5,7 @@
 	path = parkar-server
 	url = https://github.com/quangpn24/parkar-server
 [submodule "parkar-merchant"]
-	path = parka-merchant
+	path = parkar-merchant
 	url = https://github.com/trunghq234/parka-merchant
 [submodule "parkar-merchant-app"]
 	path = parkar-merchant-app
